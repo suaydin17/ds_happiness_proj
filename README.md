@@ -44,7 +44,7 @@ Pivot table of ladder scores grouped by regions.
 ## Model Building and Model Performance
 First, I split the data into train and test sets with a test size of %20.
 
-I tried Random Forest Regression model and  evaluated it usng Mean Absolute Error. 
+I tried Random Forest Regression model and  evaluated it using Mean Absolute Error. 
 
 RFR MAE: 0.462752
 
